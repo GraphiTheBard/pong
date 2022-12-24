@@ -1,5 +1,5 @@
 # pong
-<h4>console pong game written in c\#</h4>
+<h2>console pong game written in c#</h2>
 
 good ol' pong game
 
