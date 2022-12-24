@@ -8,4 +8,7 @@ good ol' pong game
   <ul>up/down: right paddle</ul>
   <ul>r: reset score and paddles</ul>
 </list>
+<br>
+<br>
+<br>
 note: if running in vs code make the console as big as possible, code fails if you dont
